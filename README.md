@@ -39,7 +39,7 @@ ichat项目客户端（web，Android， Ios）
 * linux
 
 # 下载
-* [下载地址]([http://wwww.baidu,com](https://fusong.lanzoul.com/b01en0fla))
+* [下载地址](https://fusong.lanzoul.com/b01en0fla)
 
 密码:96gn
 # 截图显示
