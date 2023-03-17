@@ -41,7 +41,8 @@ ichat项目客户端（web，Android， Ios）
 # 下载
 * [下载地址](https://fusong.lanzoul.com/b01en0fla)
 
-密码:96gn
+https://fusong.lanzoul.com/b01en
+密码:5p4i
 # 截图显示
 ![image](https://user-images.githubusercontent.com/70237653/225937140-507d06a2-bc2c-4c19-ab6a-d70fb50fae82.png)
 ![image](https://user-images.githubusercontent.com/70237653/225937234-abd1e1dc-8d08-4a2f-ae94-adf71849231f.png)
