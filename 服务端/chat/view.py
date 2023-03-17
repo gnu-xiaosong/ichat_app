@@ -8,7 +8,7 @@ from django.shortcuts import render
 
 
 #密钥
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def chatgpt(request):
