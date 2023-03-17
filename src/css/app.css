@@ -1,0 +1,43 @@
+/* app global css */
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "阿里妈妈东方大楷 Regular";
+  src: url("../assets//aliFont/Alimama_DongFangDaKai_Regular.woff2") format("woff2"),
+    url("../assets//aliFont/Alimama_DongFangDaKai_Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "钉钉进步体 Regular";
+  src: url("../assets//ddFont/DingTalk_JinBuTi_Regular.woff") format("woff"),
+    url("../assets//ddFont/DingTalk_JinBuTi_Regular.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "阿里妈妈数黑体 Bold";
+  src: url("../assets//alimamaHeitiFont/Alimama_ShuHeiTi_Bold.woff") format("woff"),
+    url("../assets//alimamaHeitiFont//Alimama_ShuHeiTi_Bold.woff2") format("woff2");
+  font-display: swap;
+}
+
+
+ /* 字体1：阿里巴巴普惠体 */
+.text-family-1 {
+  font-family: "阿里妈妈东方大楷 Regular";
+}
+
+ /* 字体2：丁丁进步字体 */
+.text-family-dd {
+  font-family: "钉钉进步体 Regular";
+}
+
+ /* 字体2：阿里妈妈黑体进步字体 */
+.text-family-ali {
+  font-family: "阿里妈妈数黑体 Bold";
+}
+
+/* 正常字体 */
+.text-normal {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
