@@ -39,7 +39,7 @@ ichat项目客户端（web，Android， Ios）
 * linux
 
 # 下载
-* [下载地址](https://fusong.lanzoul.com/b01en0fm) Android
+* https://fusong.lanzoul.com/b01en0fmb
 密码:5p4i
 *  PC-WIN
 链接: https://pan.baidu.com/s/1zCZxSIjoA4yjKjRn9zMbkg?pwd=wfe5 提取码: wfe5 
