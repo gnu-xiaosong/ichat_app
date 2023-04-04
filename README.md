@@ -39,8 +39,9 @@ ichat项目客户端（web，Android， Ios）
 * linux
 
 # 下载
-* [下载地址](https://fusong.lanzoul.com/b01en0fm)
-  
+* [下载地址](https://fusong.lanzoul.com/b01en0fm) Android
+*  PC-WIN
+  链接: https://pan.baidu.com/s/1AODwiSVql5dsJLsU3efPJg?pwd=xdfi 提取码: xdfi 
   
 密码:5p4i
 # 截图显示
@@ -55,6 +56,8 @@ ichat项目客户端（web，Android， Ios）
 
 
 # 开发日志
+
+* 上线PC端和网页端
 ......
 
 
